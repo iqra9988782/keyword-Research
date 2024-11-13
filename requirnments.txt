@@ -1,0 +1,5 @@
+streamlit
+requests
+matplotlib    # Optional, if you're using data visualization
+beautifulsoup4  # Optional, if you're scraping data from websites
+lxml           # Optional, required for BeautifulSoup to parse HTML
